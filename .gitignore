@@ -1,11 +1,5 @@
 .DS_Store
 
-data/*
-
-!data/churn-prediction-25-26/
-!data/.gitkeep
-!data/churn-prediction-25-26/.gitkeep
-
 *.parquet
 *.csv
 
