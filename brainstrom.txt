@@ -20,8 +20,8 @@ Columns:
 
 
 Questions:
--) B] can user be both free and paid
--) B] can user be on different browsers / operating systems 
+-) B] can user be both free and paid -> Yes users can be both, actually most users are both
+-) B] can user be on different browsers / operating systems -> No they always use the same operating system and os
 
 
 
