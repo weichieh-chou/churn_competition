@@ -1,0 +1,28 @@
+Columns:
+
+-) churn or not (1 churn, 0 not churn)
+-) churn data / last date in df - registration date = user_lifecylce
+-) how many different artist in total
+-) how many songs in total
+-) how many songs per session on average
+-) total length for user
+-) max of iteminSession per session on average
+-) how often did user add friend
+-) how often did user on page thumbs up
+-) how often did user on page thumbs down
+-) how often did user on page help
+-) how often did user on page roll advert
+-) ...
+-) how many sessions per user
+-) sessions divided by user_lifecylce
+
+
+Questions:
+-) can user be both free and paid
+-) can user be on different browsers / operating systems 
+
+
+Feature encoding:
+-) Gender 0,1
+-) drop userId at the end
+-) encode region
