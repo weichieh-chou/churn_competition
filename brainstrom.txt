@@ -4,8 +4,8 @@ Columns:
 
 -) J] churn or not (1 churn, 0 not churn)
 -) J] churn data / last date in df - registration date = user_lifecylce
--) B] how many different artist in total
--) B] how many songs in total
+-) B] how many different artist in total - > Done
+-) B] how many songs in total -> done
 -) B] how many songs per session on average
 -) J] total length for user
 -) J] max of iteminSession(only the max make sense) per session on average
