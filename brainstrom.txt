@@ -17,6 +17,7 @@ Columns:
 -) ...
 -) B] how many sessions per user
 -) J] sessions divided by user_lifecylce(Frequency)
+-) level (idea has upgraded / has downgraded)
 
 
 Questions:
