@@ -1,25 +1,28 @@
+B] Create a dataframe with one column: UserId
+
 Columns:
 
--) churn or not (1 churn, 0 not churn)
--) churn data / last date in df - registration date = user_lifecylce
--) how many different artist in total
--) how many songs in total
--) how many songs per session on average
--) total length for user
--) max of iteminSession per session on average
--) how often did user add friend
+-) J] churn or not (1 churn, 0 not churn)
+-) J] churn data / last date in df - registration date = user_lifecylce
+-) B] how many different artist in total
+-) B] how many songs in total
+-) B] how many songs per session on average
+-) J] total length for user
+-) J] max of iteminSession(only the max make sense) per session on average
+-) J...] how often did user add friend
 -) how often did user on page thumbs up
 -) how often did user on page thumbs down
 -) how often did user on page help
 -) how often did user on page roll advert
 -) ...
--) how many sessions per user
--) sessions divided by user_lifecylce
+-) B] how many sessions per user
+-) J] sessions divided by user_lifecylce(Frequency)
 
 
 Questions:
--) can user be both free and paid
--) can user be on different browsers / operating systems 
+-) B] can user be both free and paid
+-) B] can user be on different browsers / operating systems 
+
 
 
 Feature encoding:
