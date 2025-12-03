@@ -1,4 +1,4 @@
-B] Create a dataframe with one column: UserId
+B] Create a dataframe with one column: UserId (Done)
 
 Columns:
 
@@ -15,7 +15,7 @@ Columns:
 -) how often did user on page help
 -) how often did user on page roll advert
 -) ...
--) B] how many sessions per user
+-) B] how many sessions per user (Done)
 -) J] sessions divided by user_lifecylce(Frequency)
 -) level (idea has upgraded / has downgraded)
 
