@@ -20,6 +20,7 @@ Columns:
 -) level (idea has upgraded / has downgraded)
 
 
+
 Questions:
 -) B] can user be both free and paid -> Yes users can be both, actually most users are both
 -) B] can user be on different browsers / operating systems -> No they always use the same operating system and os
@@ -33,7 +34,18 @@ errors / count_total_sessions = how often a user experienced errors per session 
 days since last activity (depending on the cut off date)
 
 
+When cutoff date:
+did user downgrade in last x days
+when was the last time the user was active before the cutoff date
+
+
 Feature encoding:
 -) Gender 0,1
 -) drop userId at the end
 -) encode region
+
+
+Benedikt:
+
+add last recorded level of user
+add sum of submit upgrade/downgrade
