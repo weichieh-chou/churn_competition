@@ -26,6 +26,13 @@ Questions:
 
 
 
+More ideas for features:
+thumbs_up / thumbs_down = like a rate of how satisfied a user is with content in general ->Done
+roll_advert / count_total_sessions = how often a user had to roll an ad per session -> Done
+errors / count_total_sessions = how often a user experienced errors per session -> Done
+days since last activity (depending on the cut off date)
+
+
 Feature encoding:
 -) Gender 0,1
 -) drop userId at the end
