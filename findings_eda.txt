@@ -1,0 +1,10 @@
+count_cancel has to be dropped: every user that churned went on that page and no others
+
+super high correlation between the counts
+in general high correlation between coefficients
+problem: some regions don't have many people in it, so the churn_rate is super off - probably drop it completely
+
+
+
+strong features so far:
+thumbs_ratio, user_lifecycle_h, item_per_session, last_level
