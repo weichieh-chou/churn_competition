@@ -1,0 +1,24 @@
+Check if predict also scales and encodes our test dataset (i think so)
+Fix the feature where it says new user to less than 720 since that is too long for our dataset
+
+
+!!!!!!!!Keep the best score code "seperate" so we dont loose it!!!!!!!!!!
+
+Next steps:
+--> To increase Score:
+                -) Try to use different models / combine models
+                -) Tune hyperparams
+                -) Add Features
+
+--> For Final submission:
+                -) for report:
+                    -) All features with importance
+                    -) Some EDA graphs on features
+                    -) Put in Corr matrix before and after
+                    -) Table to show performance of differnt models (cv problem needs to be fixed, time series has to be accounted for)
+
+                -) for repo:
+                    -) make nice eda (time series and trend analysis missing)
+                    -) clean up code
+
+
