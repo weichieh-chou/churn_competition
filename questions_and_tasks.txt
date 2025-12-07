@@ -12,7 +12,7 @@ Next steps:
 
 --> For Final submission:
                 -) for report:
-                    -) All features with importance
+                    -) All features with importance (PCA; Ridge, Lasso and combination of them)
                     -) Some EDA graphs on features
                     -) Put in Corr matrix before and after
                     -) Table to show performance of differnt models (cv problem needs to be fixed, time series has to be accounted for)
